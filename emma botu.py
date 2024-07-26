@@ -20,4 +20,4 @@ async def meslek(ctx):
     await ctx.send(emmakod.meslekler())
 
 
-bot.run("MTI1ODgyNjU2NDA4MzEyMjMwOA.GtoOFo.wXLJYGq3yLJojaaMIHRqfnkAbyv38xtObMOdkA")
+bot.run("")
